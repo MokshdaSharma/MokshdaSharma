@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm Mokshda Sharma! 👋
+I'm Data Scientist/ML engineer
 
-<!--
-**MokshdaSharma/MokshdaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,sql,js,html,css,react,tailwind,django,tableau,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C++, SQL, JavaScript, C  
+- **Frameworks & Tools**: TensorFlow, PyTorch, Streamlit, Django, Tableau, React, Scikit-learn, HuggingFace  
+- **Other Interests**: NLP, LLMs, GIS, Data Visualization
+
+## 📬 Get in Touch
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mokshda)
+
+
