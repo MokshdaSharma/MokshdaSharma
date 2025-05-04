@@ -10,12 +10,12 @@ I'm a Data Scientist/ML engineer
 ### Frameworks & Tools
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
 [![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![opencv](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
 
 
 ## Get in Touch
