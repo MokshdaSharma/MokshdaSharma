@@ -7,7 +7,7 @@ I'm a Data Scientist/ML engineer
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-### 🛠️ Frameworks & Tools
+### Frameworks & Tools
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
@@ -18,8 +18,9 @@ I'm a Data Scientist/ML engineer
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 
-## 📬 Get in Touch
+## Get in Touch
 
-- Connect with me on [LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/mokshda)
+- Connect with me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+- [LinkedIn](https://www.linkedin.com/in/mokshda)
 
 
