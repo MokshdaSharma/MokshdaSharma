@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm Mokshda Sharma! 👋
-I'm Data Scientist/ML engineer
+I'm a Data Scientist/ML engineer
 
-## 🧠 Tech Stack
-### 🗣️ Languages
+## Tech Stack
+### Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
@@ -12,10 +12,14 @@ I'm Data Scientist/ML engineer
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
 [![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev)
-[![HuggingFace](https://skillicons.dev/icons?i=huggingface)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![opencv](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+[![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 
 ## 📬 Get in Touch
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mokshda)
+- Connect with me on [LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/mokshda)
 
 
