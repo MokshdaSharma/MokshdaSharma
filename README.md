@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm Mokshda Sharma! 👋
-I'm a Data Scientist/ML engineer
+I'm Mokshda Sharma, a Data Scientist/ML engineer
 
 ## Tech Stack
 ### Languages
