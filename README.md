@@ -11,9 +11,6 @@ I'm Data Scientist/ML engineer
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![Tableau](https://skillicons.dev/icons?i=tableau)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev)
 [![HuggingFace](https://skillicons.dev/icons?i=huggingface)](https://skillicons.dev)
 
