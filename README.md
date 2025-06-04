@@ -20,6 +20,6 @@ I'm Mokshda Sharma, a Data Scientist/ML engineer
 ## Get in Touch
 
 - Connect with me on
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/mokshda)
+- [LinkedIn](https://www.linkedin.com/in/mokshda)
 
 
