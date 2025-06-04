@@ -19,7 +19,6 @@ I'm Mokshda Sharma, a Data Scientist/ML engineer
 
 ## Get in Touch
 
-- Connect with me on
-- [LinkedIn](https://www.linkedin.com/in/mokshda)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mokshda)
 
 
